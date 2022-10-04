@@ -1,5 +1,13 @@
-.nav {
-    display: flex;
+.active {
     justify-content: space-between;
     background-color: azure;
+}
+
+.default {
+    text-decoration: none;
+    width: 200px;
+    font-size: 50px;
+    text-align: center;
+    vertical-align: middle;
+    float: right;
 }
